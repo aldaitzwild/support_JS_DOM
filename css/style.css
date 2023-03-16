@@ -10,8 +10,8 @@ nav {
     align-items: baseline;
     background-color: rgba(91, 159, 161);
     padding: 15px;
-    width: 100vw;
-    transition: 1s;
+    width: 90vw;
+    transition: 0.3s;
 }
 
 button {
